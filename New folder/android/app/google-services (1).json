@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511379559103",
+    "firebase_url": "https://hambuna-d3b91.firebaseio.com",
+    "project_id": "hambuna-d3b91",
+    "storage_bucket": "hambuna-d3b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511379559103:android:55dfb81a182287f2602c0a",
+        "android_client_info": {
+          "package_name": "com.example.shopio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511379559103-v4pm3jevvkv0hbaof71abjd77mtpov0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86bYNoIjs8kzMJolQ81pnD9YZUDvLOwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511379559103-v4pm3jevvkv0hbaof71abjd77mtpov0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

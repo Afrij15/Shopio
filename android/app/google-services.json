@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217217527476",
+    "firebase_url": "https://shopio-289617.firebaseio.com",
+    "project_id": "shopio-289617",
+    "storage_bucket": "shopio-289617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217217527476:android:fdbbf73d6f35262c3a71e1",
+        "android_client_info": {
+          "package_name": "com.example.shopio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217217527476-67gkiium57fmodl56sc1fnea3gb5ji4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-UMVfCLf8fPowIFPBP5BogQKYLmr7kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217217527476-67gkiium57fmodl56sc1fnea3gb5ji4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
