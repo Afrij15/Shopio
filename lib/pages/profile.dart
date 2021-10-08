@@ -156,7 +156,7 @@ class _ProfileState extends State<Profile> {
             ),
             leading: Icon(Icons.mobile_screen_share),
             onTap: () {
-              authMethods.signOut();
+              await authMethods.signOut();
               Navigator.pushReplacement(
                   context, MaterialPageRoute(builder: (context) => Signup()));
             },
