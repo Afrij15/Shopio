@@ -23,6 +23,7 @@ class _HomeState extends State<Home> {
 
   void _itemTapped(int selectedIndex) {
     _pageController.jumpToPage(selectedIndex);
+	_selectedIndex = index;
   }
 
   @override
