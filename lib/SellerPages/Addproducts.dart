@@ -97,10 +97,10 @@ class _AddproductsState extends State<Addproducts> {
                                   },
                                   controller: brandNameTextEditingController,
                                   decoration: InputDecoration(
-                                    hintText: "UnderArmour",
+                                    hintText: "Nike",
                                     focusedBorder: UnderlineInputBorder(
                                       borderSide:
-                                          BorderSide(color: Colors.black),
+                                          BorderSide(color: Colors.orange),
                                     ),
                                   ),
                                 ),
