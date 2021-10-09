@@ -16,7 +16,7 @@ class _CartState extends State<Cart> {
       body: SafeArea(
         child: Center(
           child: Text(
-            "Your cart is empty!",
+            "Your cart is empty! PLease Update Items",
             style: TextStyle(fontSize: 20),
           ),
         ),
