@@ -66,7 +66,7 @@ class _SignInState extends State<SignIn> {
                   Text("Dont have an Account?"),
                   Text(
                     "Register Now",
-                    style: TextStyle(color: Colors.blue),
+                    style: TextStyle(color: Colors.blue),//this is used to register an account
                   ),
                   SizedBox(height: 70)
                 ],
