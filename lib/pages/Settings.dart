@@ -1,6 +1,7 @@
 import 'package:settings_ui/settings_ui.dart';
 import 'package:flutter/material.dart';
 
+//This is the the Settings page for user config
 class Settings extends StatefulWidget {
   //Stores({Key key}) : super(key: key);
   @override

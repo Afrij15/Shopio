@@ -64,23 +64,23 @@ class _HomeState extends State<Home> {
           BottomNavigationBarItem(
               icon: Icon(
                 Icons.shop,
-                color: _selectedIndex == 2 ? Colors.amber[800] : Colors.grey,
+                color: _selectedIndex == 2 ? Colors.amber[700] : Colors.grey,
               ),
               title: Text(
                 'Stores',
                 style: TextStyle(
-                  color: _selectedIndex == 2 ? Colors.amber[800] : Colors.grey,
+                  color: _selectedIndex == 2 ? Colors.amber[700] : Colors.grey,
                 ),
               )),
           BottomNavigationBarItem(
               icon: Icon(
                 Icons.person,
-                color: _selectedIndex == 3 ? Colors.amber[800] : Colors.grey,
+                color: _selectedIndex == 3 ? Colors.amber[700] : Colors.grey,
               ),
               title: Text(
                 'Profile',
                 style: TextStyle(
-                  color: _selectedIndex == 3 ? Colors.amber[800] : Colors.grey,
+                  color: _selectedIndex == 3 ? Colors.amber[700] : Colors.grey,
                 ),
               ))
         ],
