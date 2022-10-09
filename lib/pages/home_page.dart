@@ -92,7 +92,7 @@ class _Home_pageState extends State<Home_page> {
               //onTap: ,
             ),
             Divider(
-              height: 0.1,
+              height: 2,
             ),
             ListTile(
               title: Text("Notifications"),
@@ -116,7 +116,7 @@ class _Home_pageState extends State<Home_page> {
               ),
             ),
             Divider(
-              height: 0.1,
+              height: 1,
             ),
             ListTile(
               title: Text(

@@ -68,8 +68,8 @@ class _SearchState extends State<Search> {
                       initiateSearch();
                     },
                     child: Container(
-                        height: 40,
-                        width: 40,
+                        height: 60,
+                        width: 60,
                         decoration: BoxDecoration(
                             color: Colors.orange,
                             borderRadius: BorderRadius.circular(40)),
