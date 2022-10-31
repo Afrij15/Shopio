@@ -71,7 +71,7 @@ class _SearchState extends State<Search> {
                         height: 40,
                         width: 40,
                         decoration: BoxDecoration(
-                            color: Colors.orange,
+                            color: Colors.red,
                             borderRadius: BorderRadius.circular(40)),
                         padding: EdgeInsets.all(10),
                         child: Icon(Icons.search)),

@@ -17,7 +17,7 @@ class _CartState extends State<Cart> {
         child: Center(
           child: Text(
             "Your cart is empty! PLease Update Items",
-            style: TextStyle(fontSize: 20),
+            style: TextStyle(fontSize: 15),
           ),
         ),
       ),
